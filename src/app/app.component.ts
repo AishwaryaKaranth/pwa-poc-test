@@ -11,7 +11,6 @@ import { ThisReceiver } from '@angular/compiler';
 })
 export class AppComponent implements OnInit {
   title = 'pwa-test-1';
-  //promptEvent: any;
   isOnline!: boolean;
   modalVersion!: boolean;
   modalPwaEvent: any;
