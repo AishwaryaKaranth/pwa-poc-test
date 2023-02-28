@@ -1,0 +1,8 @@
+app/vercel/pwa_poc_test_8kyh/twa/BuildConfig.java
+ app.vercel.pwa_poc_test_8kyh.twa.BuildConfig
+app/vercel/pwa_poc_test_8kyh/twa/Application.java
+ app.vercel.pwa_poc_test_8kyh.twa.Application
+app/vercel/pwa_poc_test_8kyh/twa/LauncherActivity.java
+ app.vercel.pwa_poc_test_8kyh.twa.LauncherActivity
+app/vercel/pwa_poc_test_8kyh/twa/DelegationService.java
+ app.vercel.pwa_poc_test_8kyh.twa.DelegationService

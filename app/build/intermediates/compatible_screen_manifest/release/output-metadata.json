@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "app.vercel.pwa_poc_test_8kyh.twa",
+  "variantName": "release",
+  "elements": []
+}
